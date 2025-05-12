@@ -55,6 +55,7 @@ local tweak_syntax_keys = {
     "keyword",
     "keyword_return",
     "keyword_exception",
+    "tag",
 }
 
 ---modify the theme based on setup's config.tweak_syntax
